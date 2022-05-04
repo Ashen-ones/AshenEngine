@@ -1,0 +1,12 @@
+add_library(GeomMath
+CrossProduct.cpp 
+MulByElement.cpp
+Transpose.cpp
+Normalize.cpp
+Transform.cpp
+AddByElement.cpp
+SubByElement.cpp
+InverseMatrix4X4f.cpp
+DCT.cpp
+geommath.cpp
+)
